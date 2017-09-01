@@ -18,7 +18,7 @@ acts = client.get_activities(limit=10)
 for act in acts:
     print act.id, act.name, unithelper.miles(act.distance), act.description
 
-
+#testing
 #ryan = client.get_athlete(6777976)
 
 #print ryan.city
