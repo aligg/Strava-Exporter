@@ -1,3 +1,9 @@
 secret.sh
 .DS_Store
 env/
+client_secret.json
+quickstart.py
+client_secret1.json
+client_secret2.py
+*.pyc
+stravasecret.sh
